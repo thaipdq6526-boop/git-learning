@@ -1,2 +1,2 @@
-A new git 
+Hello from main
 This only is only in new-feat 
